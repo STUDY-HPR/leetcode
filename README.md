@@ -1,3 +1,19 @@
-### leetcode 문제 풀이
+## leetcode
 
-- 주마다 2문제씩 풀이 한 후 코드를 공유 한다.
+
+
+#### 2주차
+
+- [두수의합](https://leetcode.com/problems/two-sum/)
+- [빗물트래핑]( https://leetcode.com/problems/trapping-rain-water/)
+
+
+
+#### 1주차
+
+- [팰린드롬](https://leetcode.com/problems/valid-palindrome/)
+
+- [애너그램 그룹핑](https://leetcode.com/problems/group-anagrams)
+
+  
+
