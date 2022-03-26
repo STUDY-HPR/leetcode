@@ -1,5 +1,10 @@
 ## leetcode
 
+#### 3주차
+
+- [역순 연결 리스트](https://leetcode.com/problems/reverse-linked-list)
+- [원형 큐 설계하기](https://leetcode.com/problems/design-circular-queue)
+
 
 
 #### 2주차
