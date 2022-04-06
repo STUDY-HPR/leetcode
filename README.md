@@ -23,7 +23,7 @@
 #### 8주차 (04.25 ~ 05.01)
  - [배열 파티션](https://leetcode.com/problems/array-partition-i/)
  - [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/)
- - [주식을 사고팔기 가장 좋은 시점]( - [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems//)
+ - [주식을 사고팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 #### 7주차 (04.18 ~ 04.24)
  - [두 수의 합](https://leetcode.com/problems/two-sum/)
