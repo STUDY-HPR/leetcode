@@ -1,7 +1,5 @@
-
-public class _125_Valid_Palindrome {
-
-	public boolean isPalindrome(String s) {
+class Solution {
+    public boolean isPalindrome(String s) {
 		if (s.isEmpty()) {
 			return true;
 		}
@@ -28,14 +26,8 @@ public class _125_Valid_Palindrome {
 			if (leftChar != rightChar) {
 				return false;
 			}
-			left++;
-			right--;
 		}
 		return true;
-	}
-
-	public boolean isAlphabeticAndDigit(char ch) {
-		return Character.isAlphabetic(ch) || Character.isDigit(ch);
-	}
-
+	    
+    }
 }
